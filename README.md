@@ -10,7 +10,7 @@
   <a href="https://michelfreitas.com">
     <img src="https://img.shields.io/badge/Portfolio-michelfreitas.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:chelmizinho@gmail.com">
+  <a href="mailto:contato@michelfreitas.com">
     <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/michasdev">
